@@ -1,3 +1,1 @@
-# TestRepo
-Test Repository
-This is the first markdown file.
+This repository contains all of my capstone project files from Coursera's "IBM Data Analyst Capstone Project" course.
